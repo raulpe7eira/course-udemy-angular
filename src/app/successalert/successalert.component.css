@@ -1,0 +1,7 @@
+p {
+    background: green;
+    color: white;
+    font-weight: bold;
+    padding: 3px;
+    text-transform: capitalize;
+}
