@@ -17,8 +17,8 @@
 
 ## Seção 5 :ballot_box_with_check:
 
-* Exemplo: [branch :: cmp-databinding-start](https://github.com/raulpe7eira/course-udemy-angular/tree/cmp-databinding-start)
-* Prática: [branch :: cmp-databinding-assigment-start](https://github.com/raulpe7eira/course-udemy-angular/tree/cmp-databinding-assignment-start)
+* Exemplo: [branch > cmp-databinding-start](https://github.com/raulpe7eira/course-udemy-angular/tree/cmp-databinding-start)
+* Prática: [branch > cmp-databinding-assigment-start](https://github.com/raulpe7eira/course-udemy-angular/tree/cmp-databinding-assignment-start)
 
 ## Seção 6 :ballot_box_with_check:
 ??
@@ -88,4 +88,4 @@
 
 ## Seção 28 :ballot_box_with_check:
 
-* Exemplo: [branch :: typescript](https://github.com/raulpe7eira/course-udemy-angular/tree/typescript)
+* Exemplo: [branch > typescript](https://github.com/raulpe7eira/course-udemy-angular/tree/typescript)
