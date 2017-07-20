@@ -84,3 +84,6 @@
 
 ## Seção 27
 ??
+
+## Seção 28 :ballot_box_with_check:
+??
