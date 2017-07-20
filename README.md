@@ -86,4 +86,5 @@
 ??
 
 ## Seção 28 :ballot_box_with_check:
-??
+
+- Prática: [typescript](https://github.com/raulpe7eira/course-udemy-angular/tree/typescript)
