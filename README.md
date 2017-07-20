@@ -1,8 +1,7 @@
 # course-udemy-angular
 
-**Curso**: [Angular 4 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview)
-
-**Instrutor**: [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
+* **Curso**: [Angular 4 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview)
+* **Instrutor**: [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
 
 ## Seção 1 :ballot_box_with_check:
 ??
@@ -87,4 +86,4 @@
 
 ## Seção 28 :ballot_box_with_check:
 
-- Prática: [typescript](https://github.com/raulpe7eira/course-udemy-angular/tree/typescript)
+* Prática: [typescript](https://github.com/raulpe7eira/course-udemy-angular/tree/typescript)
