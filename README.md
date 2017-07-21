@@ -55,8 +55,8 @@
 
 ## :ballot_box_with_check: Seção 15 (Handling Forms in Angular Apps)
 
-* Exemplo: [branch / forms-td](https://github.com/raulpe7eira/course-udemy-angular/tree/forms-td), [branch / forms-reactive](https://github.com/raulpe7eira/course-udemy-angular/tree/forms-reactive)
-* Prática: [branch / forms-td-assigment](https://github.com/raulpe7eira/course-udemy-angular/tree/forms-td-assignment), [branch / forms-reactive-assigment](https://github.com/raulpe7eira/course-udemy-angular/tree/forms-reactive-assignment)
+* Exemplos: [branch / forms-td](https://github.com/raulpe7eira/course-udemy-angular/tree/forms-td), [branch / forms-reactive](https://github.com/raulpe7eira/course-udemy-angular/tree/forms-reactive)
+* Práticas: [branch / forms-td-assigment](https://github.com/raulpe7eira/course-udemy-angular/tree/forms-td-assignment), [branch / forms-reactive-assigment](https://github.com/raulpe7eira/course-udemy-angular/tree/forms-reactive-assignment)
 
 
 ## :ballot_box_with_check: Seção 16 (Course Project - Forms)
