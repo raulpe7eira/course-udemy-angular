@@ -29,46 +29,46 @@
 ## :ballot_box_with_check: Seção 8
 ??
 
-## Seção 9 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 9
 ??
 
-## Seção 10 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 10
 ??
 
-## Seção 11 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 11
 ??
 
-## Seção 12 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 12
 ??
 
-## Seção 13 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 13
 ??
 
-## Seção 14 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 14
 ??
 
-## Seção 15 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 15
 ??
 
-## Seção 16 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 16
 ??
 
-## Seção 17 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 17
 ??
 
-## Seção 18 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 18
 ??
 
-## Seção 19 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 19
 ??
 
-## Seção 20 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 20
 ??
 
-## Seção 21 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 21
 ??
 
-## Seção 22 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 22
 ??
 
 ## Seção 23
@@ -77,15 +77,15 @@
 ## Seção 24
 ??
 
-## Seção 25 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 25
 ??
 
-## Seção 26 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 26
 ??
 
 ## Seção 27
 ??
 
-## Seção 28 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 28
 
 * Exemplo: [branch/typescript](https://github.com/raulpe7eira/course-udemy-angular/tree/typescript)
