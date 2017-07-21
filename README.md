@@ -3,30 +3,30 @@
 * **Curso**: [Angular 4 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview)
 * **Instrutor**: [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
 
-## Seção 1 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 1
 ??
 
-## Seção 2 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 2
 ??
 
-## Seção 3 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 3
 ??
 
-## Seção 4 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 4
 ??
 
-## Seção 5 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 5
 
-* Exemplo: [branch > cmp-databinding-start](https://github.com/raulpe7eira/course-udemy-angular/tree/cmp-databinding-start)
-* Prática: [branch > cmp-databinding-assigment-start](https://github.com/raulpe7eira/course-udemy-angular/tree/cmp-databinding-assignment-start)
+* Exemplo: [branch/cmp-databinding](https://github.com/raulpe7eira/course-udemy-angular/tree/cmp-databinding)
+* Prática: [branch/cmp-databinding-assigment](https://github.com/raulpe7eira/course-udemy-angular/tree/cmp-databinding-assignment)
 
-## Seção 6 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 6
 ??
 
-## Seção 7 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 7
 ??
 
-## Seção 8 :ballot_box_with_check:
+## :ballot_box_with_check: Seção 8
 ??
 
 ## Seção 9 :ballot_box_with_check:
@@ -88,4 +88,4 @@
 
 ## Seção 28 :ballot_box_with_check:
 
-* Exemplo: [branch > typescript](https://github.com/raulpe7eira/course-udemy-angular/tree/typescript)
+* Exemplo: [branch/typescript](https://github.com/raulpe7eira/course-udemy-angular/tree/typescript)
