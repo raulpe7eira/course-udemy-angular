@@ -87,7 +87,7 @@
 ## Seção 23 (Angular Animations)
 ??
 
-## Seção 24 (A Basic Introduction to Unit Testing in Angular Apps)
+## :ballot_box_with_check: Seção 24 (A Basic Introduction to Unit Testing in Angular Apps)
 
 * Exemplo: [branch / testing](https://github.com/raulpe7eira/course-udemy-angular/tree/testing)
 
