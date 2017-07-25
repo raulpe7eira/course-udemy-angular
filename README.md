@@ -97,8 +97,9 @@
 ## :ballot_box_with_check: Seção 26 (About the Course Update & Angular 4)
 ??
 
-## Seção 27 (Custom Project & Workflow Setup)
-??
+## :ballot_box_with_check: Seção 27 (Custom Project & Workflow Setup)
+
+* Exemplo: [branch / prj-custom-app](https://github.com/raulpe7eira/course-udemy-angular/tree/prj-custom-app)
 
 ## :ballot_box_with_check: Seção 28 (Bonus: TypeScript Introduction - for Angular 2 Usage)
 
