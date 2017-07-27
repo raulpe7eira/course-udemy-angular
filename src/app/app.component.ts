@@ -30,7 +30,9 @@ import { animate, Component, trigger, state, style, transition } from '@angular/
       })),
       transition('normal => highlighted', animate(300)),
       transition('highlighted => normal', animate(800)),
-      transition('shrunken <=> *', animate(500))
+      transition('shrunken <=> *', animate(500, style({
+        borderRadius: '50px'
+      })))
     ])
   ]
 })
