@@ -25,7 +25,19 @@
       <ul class="list-group">
         <li
           class="list-group-item"
-          *ngFor="let item of list" (click)="onDelete(item)" [@list1]="">
+          *ngFor="let item of list" (click)="onDelete(item)" [@list1]>
+          {{ item }}
+        </li>
+      </ul>
+    </div>
+  </div>
+  <hr>
+  <div class="row">
+    <div class="col-xs-12">
+      <ul class="list-group">
+        <li
+          class="list-group-item"
+          *ngFor="let item of list" (click)="onDelete(item)" [@list2]>
           {{ item }}
         </li>
       </ul>
