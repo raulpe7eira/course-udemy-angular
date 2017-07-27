@@ -1,4 +1,4 @@
-import { animate, Component, keyframes, state, style, transition, trigger } from '@angular/core';
+import { animate, Component, group, keyframes, state, style, transition, trigger } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -45,14 +45,14 @@ import { animate, Component, keyframes, state, style, transition, trigger } from
         opacity: 1,
         transform: 'translateX(0)'
       })),
-      transition('void <=> *', [
+      transition('void => *', [
         style({
           opacity: 0,
           transform: 'translateX(-100px)'
         }),
         animate(300)
       ]),
-      transition('* <=> void', animate(300, style({
+      transition('* => void', animate(300, style({
         transform: 'translateX(100px)',
         opacity: 0
       })))
@@ -62,7 +62,7 @@ import { animate, Component, keyframes, state, style, transition, trigger } from
         opacity: 1,
         transform: 'translateX(0)'
       })),
-      transition('void <=> *', [
+      transition('void => *', [
         animate(1000, keyframes([
           style({
             transform: 'translateX(-100px)',
@@ -86,10 +86,17 @@ import { animate, Component, keyframes, state, style, transition, trigger } from
           })
         ]))
       ]),
-      transition('* <=> void', animate(300, style({
-        transform: 'translateX(100px)',
-        opacity: 0
-      })))
+      transition('* => void', [
+        group([
+          animate(300, style({
+            color: 'red'
+          })),
+          animate(300, style({
+            transform: 'translateX(100px)',
+            opacity: 0
+          }))
+        ])
+      ])
     ])
   ]
 })
