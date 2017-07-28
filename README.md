@@ -84,7 +84,7 @@
 ## :ballot_box_with_check: Seção 22 (Deploying an Angular App)
 ??
 
-## Seção 23 (Angular Animations)
+## :ballot_box_with_check: Seção 23 (Angular Animations)
 
 * Exemplo: [branch / animations](https://github.com/raulpe7eira/course-udemy-angular/tree/animations)
 
