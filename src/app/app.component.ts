@@ -1,4 +1,4 @@
-import { animate, Component, group, keyframes, state, style, transition, trigger } from '@angular/core';
+import { Component, group, keyframes, state, style, transition, trigger } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -121,5 +121,13 @@ export class AppComponent {
 
   onDelete(item) {
     this.list.splice(this.list.indexOf(item), 1);
+  }
+
+  animationStarted(event) {
+    console.log(event);
+  }
+
+  animationEnded(event) {
+    console.log(event);
   }
 }
