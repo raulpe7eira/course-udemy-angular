@@ -85,7 +85,8 @@
 ??
 
 ## Seção 23 (Angular Animations)
-??
+
+* Exemplo: [branch / animations](https://github.com/raulpe7eira/course-udemy-angular/tree/animations)
 
 ## :ballot_box_with_check: Seção 24 (A Basic Introduction to Unit Testing in Angular Apps)
 
