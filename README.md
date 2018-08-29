@@ -1,7 +1,6 @@
 # course-udemy-ng4
 
-* **Curso**: [Angular 4 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview)
-* **Instrutor**: [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
+Resultado do curso **[Angular 4 (formerly Angular 2) - The Complete Guide](https://udemy.com/the-complete-guide-to-angular-2/)** da [Udemy](https://udemy.com/).
 
 ## :ballot_box_with_check: Seção 1 (Getting Started)
 ??
